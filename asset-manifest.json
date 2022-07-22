@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/ECO_eCommerce/static/css/main.b3bf56d7.css",
-    "main.js": "/ECO_eCommerce/static/js/main.f5c8804e.js",
+    "main.js": "/ECO_eCommerce/static/js/main.ed787059.js",
     "static/js/787.71d65ca1.chunk.js": "/ECO_eCommerce/static/js/787.71d65ca1.chunk.js",
     "static/media/newCollection2.jpg": "/ECO_eCommerce/static/media/newCollection2.dc7b0870d0a4e9ea3718.jpg",
     "static/media/newCollection.jpg": "/ECO_eCommerce/static/media/newCollection.7d652a790c848e59cba9.jpg",
     "static/media/146-basket-trolley-shopping-card-lineal (1).gif": "/ECO_eCommerce/static/media/146-basket-trolley-shopping-card-lineal (1).d05d0d1eb2272116cc14.gif",
     "index.html": "/ECO_eCommerce/index.html",
     "main.b3bf56d7.css.map": "/ECO_eCommerce/static/css/main.b3bf56d7.css.map",
-    "main.f5c8804e.js.map": "/ECO_eCommerce/static/js/main.f5c8804e.js.map",
+    "main.ed787059.js.map": "/ECO_eCommerce/static/js/main.ed787059.js.map",
     "787.71d65ca1.chunk.js.map": "/ECO_eCommerce/static/js/787.71d65ca1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3bf56d7.css",
-    "static/js/main.f5c8804e.js"
+    "static/js/main.ed787059.js"
   ]
 }
